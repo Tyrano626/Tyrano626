@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tyrano626
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Tyrano
+- 👀 I’m interested in ... everything.  Sciende is magic.  
+- 🌱 I’m currently learning ... Python, Nano, AI
+- 💞️ I’m looking to collaborate on ... STOPPING Tech Support SCAMS
 - 📫 How to reach me ... tyrano@protonmail.com
 
 <!---
